@@ -1256,8 +1256,25 @@ p {
 Portfolio
 --------------------------------------------- 
 */
+.media {
+  display: flex;
+  align-items: center;
+}
+
+.media img {
+  margin-right: 10px; /* Sesuaikan dengan margin yang Anda inginkan */
+}
+
+.media-body {
+  flex: 1; /* Membuat konten memenuhi sisa ruang yang tersedia */
+}
+
+.media-body h6 {
+  margin: 0; /* Menghilangkan margin bawaan pada h6 */
+}
 
 .blog-wrap {
+  background-color: #f5f8f9 !important;
   padding: 110px 0 50px 0;
 }
 
@@ -1336,9 +1353,6 @@ h3.quote::before {
   text-overflow: ellipsis;
   max-width: 100%;
   white-space: normal;
-}
-.blog-item-content {
-  background-color: #f5f8f9 !important;
 }
 
 .latest-blog {
