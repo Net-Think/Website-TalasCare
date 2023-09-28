@@ -183,6 +183,36 @@ p {
   color: #1d2a5d;
 }
 
+.map-btn {
+  display: inline-block;
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  padding: 17px 40px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  width: 100%;
+  z-index: 5;
+  transition: all 0.4s ease-in-out;
+  border: none;
+  background: #663399;
+  overflow: hidden;
+}
+
+.map-btn:hover {
+  color: #fff;
+}
+
+.map-btn.border-btn {
+  border: 2px solid #663399;
+  background: transparent;
+  color: #1d2a5d;
+}
+
 .btn-hover {
   position: relative;
   overflow: hidden;
@@ -1175,6 +1205,57 @@ p {
     font-size: 13px;
   }
 }
+
+/*---- faq section style start ----*/
+
+/* accordian style override  */
+
+.accordion-button {
+  font-weight: 200;
+  font-family: "Raleway", sans-serif;
+  color: var(--body-text-color);
+  font-size: 24px;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
+
+.accordion-button:focus {
+  border: 1px solid #ebeff4;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #663399;
+  font-weight: 300;
+  background-color: var(--grey-color);
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  border-color: transparent;
+  border-width: 0;
+  border-top: 1px solid #ebeff4;
+}
+
+.accordion-item {
+  border: 1px solid #ebeff4;
+  border-radius: 10px;
+}
+
+.accordion-button {
+  border: 1px solid #ebeff4;
+  border-radius: 10px;
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23212529'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+  color: black;
+}
+
+/* 
+---------------------------------------------
+Portfolio
+--------------------------------------------- 
+*/
 
 /*===========================
     02.HEADER css 
