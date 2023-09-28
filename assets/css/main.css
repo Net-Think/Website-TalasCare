@@ -1256,6 +1256,10 @@ p {
 Portfolio
 --------------------------------------------- 
 */
+.card-text {
+  margin-bottom: 20px;
+  font-size: 15px;
+}
 .media {
   display: flex;
   align-items: center;
