@@ -1257,6 +1257,162 @@ Portfolio
 --------------------------------------------- 
 */
 
+.blog-wrap {
+  padding: 110px 0 50px 0;
+}
+
+.blog-item-content h3 {
+  line-height: 36px;
+}
+
+.blog-item-content h3 a {
+  transition: all 0.4s ease 0s;
+}
+
+.blog-item-content h3 a:hover {
+  color: #6941c6 !important;
+}
+
+.lh-36 {
+  line-height: 36px;
+}
+
+.tags a {
+  background: #f5f8f9;
+  display: inline-block;
+  padding: 8px 23px;
+  border-radius: 38px;
+  margin-bottom: 10px;
+  border: 1px solid #eee;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+.pagination .nav-links a,
+.pagination .nav-links span.current {
+  font-size: 20px;
+  font-weight: 500;
+  color: #c9c9c9;
+  margin: 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+}
+
+.pagination .nav-links span.current,
+.pagination .nav-links a.next,
+.pagination .nav-links a.prev {
+  color: #242424;
+}
+
+h3.quote {
+  font-size: 25px;
+  line-height: 50px;
+  font-weight: normal;
+  padding: 0px 25px 0px 85px;
+  margin: 65px 0 65px 0 !important;
+  position: relative;
+}
+
+h3.quote::before {
+  content: "";
+  width: 55px;
+  height: 2px;
+  background: #f75757;
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+
+.nav-posts-title {
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.blog-item-content p.mb-4 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  white-space: normal;
+}
+.blog-item-content {
+  background-color: #f5f8f9 !important;
+}
+
+.latest-blog {
+  position: relative;
+  padding-bottom: 150px;
+}
+
+.mt-70 {
+  margin-top: -70px;
+}
+
+.border-1 {
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.blog-item {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.bg-1 {
+  background: url("../img/blog/bg2.png") no-repeat 50% 50%;
+  background-size: cover;
+}
+.page-title {
+  position: relative;
+}
+
+.page-title {
+  padding: 230px 0 100px 0;
+}
+.text-lg {
+  font-size: 3.75rem;
+}
+.btn-round-full {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: #663399;
+  color: #fff;
+  border: 1px solid #663399;
+  cursor: pointer;
+}
+/* Style the button on hover */
+.btn-round-full:hover {
+  color: #fff;
+  background-color: #41136e;
+  border: 1px solid #41136e;
+}
+.text-center {
+  text-align: center !important;
+}
+.mr-2 {
+  margin-right: 2px !important;
+}
+.mr-3 {
+  margin-right: 20px !important;
+}
+.text-white {
+  color: #fff !important;
+  font-size: 20px;
+}
+.text-capitalize {
+  text-transform: capitalize !important;
+}
+.page-title .block h1 {
+  color: #fff !important ;
+}
+
+.page-title .block p {
+  color: #fff;
+}
 /*===========================
     02.HEADER css 
 ===========================*/
