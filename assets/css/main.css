@@ -1494,6 +1494,10 @@ Portfolio
   transition: all 0.3s ease-out 0s;
 }
 
+.nav-item .active a {
+  width: 100%;
+}
+
 .navbar-nav .nav-item a::before {
   width: 70%;
   left: 0;
