@@ -55,7 +55,7 @@
           <div class="row align-items-center">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                   <img src="assets/img/logo/logo.png" alt="Logo" />
                 </a>
                 <button
@@ -78,21 +78,21 @@
                 >
                   <ul id="nav" class="navbar-nav ml-auto">
                     <li class="nav-item">
-                      <a href="index.html">Beranda</a>
+                      <a href="index.php">Beranda</a>
                     </li>
                     <li class="nav-item">
                       <a class="page-scroll" href="#feature">Forum</a>
                     </li>
                     <li class="nav-item">
-                      <a href="blog.html">Blog</a>
+                      <a href="blog.php">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="page-scroll" href="#download">Talas</a>
                       <div class="dropdown-content">
-                        <a href="TalasInfo.html">TalasInfo</a>
-                        <a href="TalasAI.html">TalasAI</a>
+                        <a href="TalasInfo.php">TalasInfo</a>
+                        <a href="TalasAI.php">TalasAI</a>
                         <a href="#">TalasMaps</a>
-                        <a href="TalasDetection.html">TalasDetection</a>
+                        <a href="TalasDetection.php">TalasDetection</a>
                       </div>
                     </li>
                     <li class="nav-item2">
@@ -130,7 +130,7 @@
               <h1 class="text-capitalize mb-4 text-lg">TalasCare Blog</h1>
               <ul class="list-inline">
                 <li class="list-inline-item">
-                  <a href="index.html" class="text-white-50">Home</a>
+                  <a href="index.php" class="text-white-50">Home</a>
                 </li>
                 <li class="list-inline-item">
                   <span class="text-white">/</span>
@@ -166,7 +166,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Manfaat Tanaman Talas bagi Kehidupan Manusia</a
                   >
                 </h3>
@@ -177,7 +177,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.html"
+                  href="blog-detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -204,7 +204,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Talas salah satu Alternatif Penyangga Ketahanan Pangan</a
                   >
                 </h3>
@@ -240,7 +240,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Melirik Potensi Talas sebagai Pangan Lokal</a
                   >
                 </h3>
@@ -274,7 +274,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Tanaman Talas, Bukan Hanya Milik Bogor</a
                   >
                 </h3>
@@ -285,7 +285,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.html"
+                  href="blog-detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -311,7 +311,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Melirik Potensi Talas sebagai Pangan Lokal</a
                   >
                 </h3>
@@ -345,7 +345,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.html"
+                  <a href="blog-detail.php"
                     >Tanaman Talas, Bukan Hanya Milik Bogor</a
                   >
                 </h3>
@@ -356,7 +356,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.html"
+                  href="blog-detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -398,7 +398,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
               <div class="footer-widget">
                 <div class="logo">
-                  <a href="index.html">
+                  <a href="index.php">
                     <img
                       src="assets/img/logo/logo2.png"
                       alt=""

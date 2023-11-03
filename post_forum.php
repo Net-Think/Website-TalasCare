@@ -22,7 +22,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link nav-active" href="index.html"><img src="assets/image/home.svg" alt=""></a>
+                        <a class="nav-link nav-active" href="index.php"><img src="assets/image/home.svg" alt=""></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"><img src="assets/image/follow.svg" alt=""></a>
@@ -51,12 +51,12 @@
                         </a>
                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
                             aria-labelledby="userDropdown">
-                            <a class="dropdown-item" href="profile.html">
+                            <a class="dropdown-item" href="profile.php">
                                 <img src="assets/image/profil.svg" alt="">
                                 Profil
                             </a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="login.html">
+                            <a class="dropdown-item" href="login.php">
                                 <img src="assets/image/logout.svg" alt="">
                                 Keluar
                             </a>
@@ -89,7 +89,7 @@
                             <div class="w-auto d-none d-lg-block">
                                 <div class="item-side">
                                     <div class="filter">
-                                        <a href="edit_profile.html">
+                                        <a href="edit_profile.php">
                                             <div class="body-filter">
                                                     <img src="assets/image/profile.svg" alt="">
                                                 <div class="filter-text">
@@ -97,7 +97,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="post_forum.html">
+                                        <a href="post_forum.php">
                                             <div class="body-filter">
                                                     <img src="assets/image/forum.svg" alt="">
                                                 <div class="filter-text">
@@ -105,7 +105,7 @@
                                                 </div>
                                             </div>
                                         </a>
-                                        <a href="login.html">
+                                        <a href="login.php">
                                             <div class="body-filter">
                                                     <img src="assets/image/keluar.svg" alt="">
                                                 <div class="filter-text">

@@ -39,8 +39,8 @@
                                                 <label class="label-auth">Password</label>
                                                 <input type="password" class="form-profil" placeholder="Masukkan password">
                                             </div>
-                                            <a href="login.html"><button class="btn btn-purple-login col-12 text-center mt-4">Daftar</button></a>
-                                            <a href="login.html"><button class="btn btn-secondary-login col-12 text-center mt-2">Login</button></a>
+                                            <a href="login.php"><button class="btn btn-purple-login col-12 text-center mt-4">Daftar</button></a>
+                                            <a href="login.php"><button class="btn btn-secondary-login col-12 text-center mt-2">Login</button></a>
                                         </div>
                                     </div>
                                 </div>

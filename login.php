@@ -36,8 +36,8 @@
                                                 <input type="password" class="form-profil" placeholder="Masukkan password">
                                             </div>
                                             <a href="#" class="label-auth d-flex justify-content-end mt-2">Lupa Password</a>
-                                            <a href="index.html"><button class="btn btn-purple-login col-12 text-center mt-4">Login</button></a>
-                                            <a href="register.html"><button class="btn btn-secondary-login col-12 text-center mt-2">Daftar Akun</button></a>
+                                            <a href="index.php"><button class="btn btn-purple-login col-12 text-center mt-4">Login</button></a>
+                                            <a href="register.php"><button class="btn btn-secondary-login col-12 text-center mt-2">Daftar Akun</button></a>
                                         </div>
                                     </div>
                                 </div>

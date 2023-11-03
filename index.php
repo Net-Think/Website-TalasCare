@@ -54,7 +54,7 @@
           <div class="row align-items-center">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                   <img src="assets/img/logo/logo.png" alt="Logo" />
                 </a>
                 <button
@@ -77,26 +77,26 @@
                 >
                   <ul id="nav" class="navbar-nav ml-auto">
                     <li class="nav-item">
-                      <a href="index.html">Beranda</a>
+                      <a href="index.php">Beranda</a>
                     </li>
                     <li class="nav-item">
-                      <a  href="forum.html">Forum</a>
+                      <a  href="forum.php">Forum</a>
                     </li>
                     <li class="nav-item">
-                      <a  href="blog.html">Blog</a>
+                      <a  href="blog.php">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="page-scroll" href="#download">Talas</a>
                       <div class="dropdown-content">
-                        <a href="TalasInfo.html">TalasInfo</a>
-                        <a href="TalasAI.html">TalasAI</a>
+                        <a href="TalasInfo.php">TalasInfo</a>
+                        <a href="TalasAI.php">TalasAI</a>
                         <a href="#">TalasMaps</a>
-                        <a href="TalasDetection.html">TalasDetection</a>
+                        <a href="TalasDetection.php">TalasDetection</a>
                       </div>
                     </li>
                     <li class="nav-item2">
                       <div class="border-first-button">
-                        <a href="login.html">Sign In</a>
+                        <a href="login.php">Sign In</a>
                       </div>
                     </li>
                     <!-- <li class="nav-item3">
@@ -522,7 +522,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
               <div class="footer-widget">
                 <div class="logo">
-                  <a href="index.html">
+                  <a href="index.php">
                     <img
                       src="assets/img/logo/logo2.png"
                       alt=""

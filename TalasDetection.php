@@ -19,7 +19,7 @@
                 <div class="col-2">
                         <div class="row">
                             <div class="w-auto d-none d-lg-block">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <div class="back">
                                         <img src="assets/image/back.svg" alt="">
                                         Kembali
