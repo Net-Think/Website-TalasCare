@@ -23,7 +23,7 @@
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
-    <link rel="stylesheet" href="plugins/themify/css/themify-icons.css" />
+    <link rel="stylesheet" href="assets/plugins/themify/css/themify-icons.css" />
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
     <link rel="stylesheet" href="assets/css/animate.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -153,7 +153,7 @@
               <div class="single-blog-item">
                   <h2 class="mt-3 mb-4">Serangga Aphis Gossyipii</h2><br/>
                   <div class="blog-item-content bg-white p-5">
-                      <img src="images/image3.jpg" alt="" class="img-fluid rounded">
+                      <img src="assets/images/image3.jpg" alt="" class="img-fluid rounded">
                       <p class="mt-5">Serangga ini menyerang daun talas dengan cara menghisap cairan daun, yang menyebabkan daun menjadi keriting. Serangga ini juga dapat mengeluarkan madu yang menarik semut. Serangga ini tidak bisa hidup dalam kondisi lingkungan yang sangat dingin.</p>
                      
                   </div>

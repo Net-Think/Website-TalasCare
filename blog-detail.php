@@ -23,7 +23,7 @@
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
       crossorigin="anonymous"
     ></script>
-    <link rel="stylesheet" href="plugins/themify/css/themify-icons.css" />
+    <link rel="stylesheet" href="assets/plugins/themify/css/themify-icons.css" />
     <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
     <link rel="stylesheet" href="assets/css/animate.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
