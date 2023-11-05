@@ -1,33 +1,19 @@
 <!DOCTYPE html>
 <html class="no-js" lang="">
-  <head>
+<head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>AppGrids - Bootstrap 5 App Landing Page Template</title>
+    <title>TalasCare - Website komunitas peduli tanaman talas</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="assets/img/favicon.svg"
-    />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/icon.png" />
     <!-- ========================= CSS here ========================= -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
-    <link rel="stylesheet" href="assets/plugins/themify/css/themify-icons.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
-    <link rel="stylesheet" href="assets/css/animate.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
-  </head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../assets/css/LineIcons.2.0.css" />
+    <link rel="stylesheet" href="../assets/css/animate.css" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+</head>
   <body>
     <!-- ========================= preloader start ========================= -->
     <div class="preloader">
@@ -55,8 +41,8 @@
           <div class="row align-items-center">
             <div class="col-lg-12">
               <nav class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="index.php">
-                  <img src="assets/img/logo/logo.png" alt="Logo" />
+                <a class="navbar-brand" href="../index.php">
+                  <img src="../assets/img/logo/logo.png" alt="Logo" />
                 </a>
                 <button
                   class="navbar-toggler"
@@ -78,21 +64,21 @@
                 >
                   <ul id="nav" class="navbar-nav ml-auto">
                     <li class="nav-item">
-                      <a href="index.php">Beranda</a>
+                      <a href="../index.php">Beranda</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#feature">Forum</a>
+                      <a class="page-scroll" href="../forum.php">Forum</a>
                     </li>
                     <li class="nav-item">
-                      <a href="blog.php">Blog</a>
+                      <a href="../blog.php">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="page-scroll" href="#download">Talas</a>
                       <div class="dropdown-content">
-                        <a href="TalasInfo.php">TalasInfo</a>
-                        <a href="TalasAI.php">TalasAI</a>
+                        <a href="../TalasInfo.php">TalasInfo</a>
+                        <a href="../TalasAI.php">TalasAI</a>
                         <a href="#">TalasMaps</a>
-                        <a href="TalasDetection.php">TalasDetection</a>
+                        <a href="../TalasDetection.php">TalasDetection</a>
                       </div>
                     </li>
                     <li class="nav-item2">
@@ -158,7 +144,7 @@
                 </div>
     
                 <div class="blog-item-content bg-white p-5">
-                    <img src="assets/img/blog/cover1.jpeg" alt="" class="img-fluid rounded">
+                    <img src="../assets/img/blog/cover1.jpeg" alt="" class="img-fluid rounded">
                     <p>Ada banyak sekali jenis tanaman yang ada di dunia ini. Dari sekian jenis tanaman, ada yang berbahaya dan ada juga yang bermanfaat bagi manusia. Salah satu tanaman yang bermanfaat bagi kehidupan manusia adalah talas. Sebutkan pemanfaatan tanaman talas! Manfaat yang paling jelas adalah sebagai sumber pangan.</p>
     
                     <p>Talas bisa diolah menjadi berbagai makanan dan minuman yang lezat. Misalnya saja bolu talas dan keripik talas yang memiliki banyak penggemar. Selain lezat dan mengenyangkan, tals juga memiliki segudang manfaat. Apa saja manfaatnya? Simak manfaat talas dalam artikel ini.</p>
@@ -212,7 +198,7 @@
                     <div class="sidebar-wrap">
     
         <div class="sidebar-widget card border-0 mb-3">
-            <img src="assets/img/blog/avatar1.jpg" alt="" class="img-fluid rounded">
+            <img src="../assets/img/blog/avatar1.jpg" alt="" class="img-fluid rounded">
             <div class="card-body p-4 text-center">
                 <h5 class="mb-0 mt-4">Muhammad Faiz Ramadhan</h5>
                 <p>Admin</p>
@@ -241,7 +227,7 @@
     
             <div class="media border-bottom py-3">
                 <a href="#">
-                    <img class="mr-4" src="assets/img/blog/cover2(1).png" alt="">
+                    <img class="mr-4" src="../assets/img/blog/cover2(1).png" alt="">
                 </a>
                 <div class="media-body">
                     <h6 class="my-2"><a href="#">Talas salah satu Alternatif Penyangga Ketahanan Pangan</a></h6>
@@ -252,7 +238,7 @@
             
     
             <div class="media border-bottom py-3">
-                <a href="#"><img class="mr-4" src="assets/img/blog/cover3(1).png" alt=""></a>
+                <a href="#"><img class="mr-4" src="../assets/img/blog/cover3(1).png" alt=""></a>
                <div class="media-body">
                     <h6 class="my-2"><a href="#">Melirik Potensi Talas sebagai Pangan Lokala></h6>
                     <span class="text-sm text-muted">28th January</span>
@@ -260,7 +246,7 @@
             </div>
     
             <div class="media py-3">
-                <a href="#"><img class="mr-4" src="assets/img/blog/cover4(1).png" alt=""></a>
+                <a href="#"><img class="mr-4" src="../assets/img/blog/cover4(1).png" alt=""></a>
                 <div class="media-body">
                     <h6 class="my-2"><a href="#">Tanaman Talas, Bukan Hanya Milik Bogor</a></h6>
                     <span class="text-sm text-muted">28th January</span>
@@ -289,101 +275,7 @@
     <!-- ========================= hero-section end ========================= -->
 
     <!-- ========================= footer start ========================= -->
-    <footer id="footer" class="footer">
-        <br><br>
-      <!-- <div class="footer-shape">
-        <img
-          src="assets/img/footer/asd.png"
-          alt=""
-          class="shape shape-1"
-        />
-      </div> -->
-      <div class="container">
-        <div class="widget-wrapper">
-          <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <div class="logo">
-                  <a href="index.php">
-                    <img
-                      src="assets/img/logo/logo2.png"
-                      alt=""
-                      class="logo-2"
-                    />
-                    <img src="assets/img/logo/logo.png" alt="" class="logo-1" />
-                  </a>
-                </div>
-                <ul class="socials">
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-twitter-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-instagram-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-linkedin-original"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-2 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="copy-right-wrapper">
-          <p>
-            Designed and Developed by
-            <a href="#" rel="nofollow" target="_blank">Net Think</a>
-          </p>
-        </div>
-      </div>
-    </footer>
+    <?php include '../views/Footer.php' ?>
 
     <!-- ========================= footer end ========================= -->
 
@@ -393,10 +285,10 @@
     </a>
 
     <!-- ========================= JS here ========================= -->
-    <script src="assets/js/bootstrap.5.0.0.alpha-2-min.js"></script>
-    <script src="assets/js/count-up.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/bootstrap.5.0.0.alpha-2-min.js"></script>
+    <script src="../assets/js/count-up.min.js"></script>
+    <script src="../assets/js/wow.min.js"></script>
+    <script src="../assets/js/main.js"></script>
     <script
       src="https://code.jquery.com/jquery-3.7.1.js"
       integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="

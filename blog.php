@@ -1,33 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>AppGrids - Bootstrap 5 App Landing Page Template</title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="assets/img/favicon.svg"
-    />
-    <!-- ========================= CSS here ========================= -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
-      crossorigin="anonymous"
-    ></script>
-    <link rel="stylesheet" href="assets/plugins/themify/css/themify-icons.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.2.0.css" />
-    <link rel="stylesheet" href="assets/css/animate.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
-  </head>
+<?php include 'views/Head.php' ?>
   <body>
     <!-- ========================= preloader start ========================= -->
     <div class="preloader">
@@ -166,7 +139,7 @@
                 </div>
                 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Manfaat Tanaman Talas bagi Kehidupan Manusia</a>
                 </h3>
                 <p class="mb-4">
@@ -176,7 +149,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.php"
+                  href="blog/detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -203,7 +176,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Talas salah satu Alternatif Penyangga Ketahanan Pangan</a
                   >
                 </h3>
@@ -239,7 +212,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Melirik Potensi Talas sebagai Pangan Lokal</a
                   >
                 </h3>
@@ -273,7 +246,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Tanaman Talas, Bukan Hanya Milik Bogor</a
                   >
                 </h3>
@@ -284,7 +257,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.php"
+                  href="blog/detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -310,7 +283,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Melirik Potensi Talas sebagai Pangan Lokal</a
                   >
                 </h3>
@@ -344,7 +317,7 @@
                 </div>
 
                 <h3 class="mt-3 mb-3">
-                  <a href="blog-detail.php"
+                  <a href="blog/detail.php"
                     >Tanaman Talas, Bukan Hanya Milik Bogor</a
                   >
                 </h3>
@@ -355,7 +328,7 @@
                 </p>
 
                 <a
-                  href="blog-detail.php"
+                  href="blog/detail.php"
                   class="btn btn-small btn-main btn-round-full"
                   >Details</a
                 >
@@ -382,89 +355,7 @@
     <!-- ========================= hero-section end ========================= -->
 
     <!-- ========================= footer start ========================= -->
-    <footer id="footer" class="footer">
-      <!-- <div class="footer-shape">
-        <img
-          src="assets/img/footer/asd.png"
-          alt=""
-          class="shape shape-1"
-        />
-      </div> -->
-      <div class="container">
-        <div class="widget-wrapper">
-          <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <div class="logo">
-                  <a href="index.php">
-                    <img
-                      src="assets/img/logo/logo2.png"
-                      alt=""
-                      class="logo-2"
-                    />
-                    <img src="assets/img/logo/logo.png" alt="" class="logo-1" />
-                  </a>
-                  <div class="accordion-body">
-                  <p>
-                  Sumber informasi dan komunitas peduli tanaman talas di Bogor. Tempat berbagi pengalaman
-                dan belajar untuk mendapatkan wawasan baru dalam menjaga kesehatan tanaman talas. </p>
-                <p>© TalasCare 2023</p>
-            </div>
-                </div>
-               
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Alamat</h3>
-                <p>Jln Kumbang No. 14, RT.02/RW.06, Babakan, Kec. Bogor Tengah, Kota Bogor, Jawa Barat 16128</p>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-2 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Kontak</h3>
-                <p>Email: sv@apps.ipb.ac.id<p>
-                <p>No Telp: (0251) 8376845<p>
-              </div>
-            </div>
-
-            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3></h3>
-                <ul class="socials">
-                  <li>
-                    <a href="facebook.com">
-                      <i class="lni lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="twitter.com">
-                      <i class="lni lni-twitter-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="instagram.com">
-                      <i class="lni lni-instagram-filled"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="copy-right-wrapper">
-          <p>
-            Designed and Developed by
-            <a href="#" rel="nofollow" target="_blank"
-              >Net Think</a
-            >
-          </p>
-        </div>
-      </div>
-    </footer>
+    <?php include 'views/Footer.php' ?>
 
     <!-- ========================= footer end ========================= -->
 
