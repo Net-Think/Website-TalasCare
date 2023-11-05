@@ -125,12 +125,10 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="hero-content">
-              <h1 class="wow fadeInUp" data-wow-delay=".2s">
-                TalasCare
-              </h1>
-			  <h2 class="wow fadeInUp" data-wow-delay=".2s">Bersama Melawan Hama dan Penyakit Tanaman Talas</h2>
+			  <h2 class="wow fadeInUp" data-wow-delay=".2s">Mari Bersama Lawan Hama dan Penyakit</h2>
               <p class="wow fadeInUp mt-20" data-wow-delay=".4s">
-				Sebuah website sumber informasi dan komunitas peduli tanaman talas di Bogor
+				Sebuah website sumber informasi dan komunitas peduli tanaman talas di Bogor. Bergabunglah dengan Komunitas Peduli Tanaman Talas di Bogor melalui TalasCare! 
+Disini kita bisa berbagi pengalaman dan berkontribusi untuk menjaga ketahanan pangan salah satu komoditas unggulan utama kota Bogor.
               </p>
               <div class="hero-btns">
                 <a
@@ -161,15 +159,7 @@
     <!-- ========================= feature-section start ========================= -->
     <section id="feature" class="feature-section pt-140">
       <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xxl-5 col-xl-6 col-lg-7">
-            <div class="section-title text-center mb-30">
-              <h1 class="mb-25 wow fadeInUp" data-wow-delay=".2s">
-                Visi Misi Talas Care
-              </h1>
-            </div>
-          </div>
-        </div>
+       
 
         <div class="row justify-content-center">
           <div class="col-lg-4 col-md-8 col-sm-10">
@@ -179,6 +169,9 @@
               </div>
               <div class="content">
                 <h3>Solusi Kesehatan Tanaman Talas Yang Terpercaya</h3>
+                <p>
+                  Jadi solusi permasalahan tanaman talas Anda dari ahli yang terpercaya.
+                </p>
               </div>
             </div>
           </div>
@@ -189,6 +182,9 @@
               </div>
               <div class="content">
                 <h3>Deteksi Hama dan Penyakit Tanaman Talas dengan AI</h3>
+                <p>
+                  Fitur TalasAI memudahkan Anda untuk deteksi hama dan penyakit tanaman talas Anda.
+                </p>
               </div>
             </div>
           </div>
@@ -198,7 +194,10 @@
                 <i class="lni lni-grow"></i>
               </div>
               <div class="content">
-                <h3>Dukung Ketahanan Pangan Indonesia</h3>
+                <h3>Berkontribusi untuk Mendukung Ketahanan Pangan Indonesia</h3>
+                <p>
+                  Menjadi salah satu komoditas utama yang berasal dari Bogor.
+                </p>
               </div>
             </div>
           </div>
@@ -258,35 +257,44 @@
     <!-- ========================= feature-section end ========================= -->
 
     <!-- ========================= tracking-section start ========================= -->
-    <section class="search-section pt-150">
+    <section class="search-section pt-100">
       <div class="container pt-100">
         <div class="row align-items-left">
 
             <div class="search-content">
               <div class="section-title text-left mb-50">
-                <h1 class="mb-40 wow fadeInUp" data-wow-delay=".2s">
-                Talas Terserang Hama & Penyakit? Perhatikan Ciri-cirinya!
+                <h1 class="mb-40 wow fadeInUp text-center" data-wow-delay=".2s">
+                Ciri-ciri Umum Tanaman Talas Anda <br> Terjangkit Hama dan Penyakit
                 </h1>
 
                 <div class="container">
-          <div class="row">
-            <div class="col-xl-5 col-lg-5">
-              <div class="blog-item">
-                <img src="assets/images/talas-lubang.png"
-                alt=""
-                class="img-fluid rounded float-left"/>
-              </div>
-            </div>
+                  <div class="row">
+                    <div class="col-xl-6 col-lg-6">
+                      <div class="blog-item">
+                        <img src="assets/images/talas-lubang.png"
+                        alt=""
+                        class="img-fluid rounded float-left"/>
+                      </div>
+                    </div>
 
-            <div class="text-left col-xl-6">
-                <h3>Daun Tanaman Berlubang</h3>
-                <p>
-                  Biasanya, hama yang sudah diketahui sering menyerang tanaman talas dengan ciri-ciri
-                  di antaranya: <br>• Ngengat Elang Anggur, <br>• Belalang Bertanduk Pendek, <br>• Wereng Pucuk Teh,<br>• dan Ulat Grayak.
-                </p>
-              </div>
-            </div>
-          </div>
+                    <div class="text-left col-xl-6  col-lg-6">
+                        <h3>Daun Tanaman Berlubang</h3>
+                        <p>
+                          Biasanya, hama yang sudah diketahui sering menyerang tanaman talas dengan ciri-ciri
+                          di antaranya: 
+                          <ul>
+                            <li><b>• Ngengat Elang Anggur</b></li>
+                            <li><b>• Belalang Bertanduk Pendek</b></li>
+                            <li><b>• Wereng Pucuk Teh,</b></li>
+                            <li><b>• dan Ulat Grayak. </b></li>
+                          </ul>
+                          (Carmichael et al.2008)
+                        </p>
+                      </div>
+                    </div>
+                    
+                  </div>
+
         </div>
         <div class="row justify-content-center">
 			<div class="col-lg-6 col-md-12 col-sm-12">
@@ -306,7 +314,53 @@
     </section>
 	
     <!-- ========================= tracking-section end ========================= -->
+    <section class="search-section pt-150">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-xl-6 col-lg-6 order-last order-lg-first">
+            <div class="search-content">
+              <div class="section-title mb-40">
+                <h1 class="mb-40 wow fadeInUp" data-wow-delay=".2s">
+                   Cara Mencegah Tanaman Talas Agar Tidak Terjangkit Hama & Penyakit
+                </h1>
+                <p class="wow fadeInUp" data-wow-delay=".4s">
+                  Berikut adalah beberapa cara mencegah tanaman talas agar tidak hama dan penyakit
+                </p>
+              </div>
+              <div class="app-info">
+                <div class="single-info">
+					<div class="icon-style color-1" style="padding:15px">
+						<h2><i class="lni lni-checkmark"></i></h2> 
+					  </div>
+                  <h4>Menjaga kebersihan tanaman</h4>
+                </div>
+                <div class="single-info">
+                  <div class="icon-style color-2" style="padding:15px">
+					<h2><i class="lni lni-protection"></i></h2> 
+                  </div>
+                  <h4>Menghindari kelembaban berlebih</h4>
+                </div>
+                <div class="single-info">
+					<div class="icon-style color-3" style="padding:15px">
+						<h2><i class="lni lni-layers"></i></h2> 
+					  </div>
+                  <h4>Menjaga jarak antara tanaman</h4>
+                </div>
+              </div>
+              <p>
+                Menerapkan praktik-praktik ini dapat membantu menjaga tanaman talas Anda tetap sehat dan produktif, sambil mengurangi risiko serangan hama dan penyakit. Penting untuk selalu memantau dan merawat tanaman secara berkala untuk memastikan kesehatannya.
+              </p>
+            </div>
+          </div>
 
+          <div class="col-xl-6 col-lg-6">
+            <div class="search-img text-lg-right img-solusi">
+              <img src="assets/img/plan/cvb.png" width="100%" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- ========================= search-section start ========================= -->
     <section class="search-section pt-150">
       <div class="container">
@@ -324,7 +378,7 @@
                 </div>
                 <div class="single-info">
                 <img src="assets/image/beranda/talasdetection.png">
-                  <h4>TalasDetection</h4>
+                  <h4>TalasMap</h4>
                 </div>
                 <div class="single-info">
 					<img src="assets/image/beranda/talasai.png">
