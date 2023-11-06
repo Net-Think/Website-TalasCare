@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html class="no-js" lang="">
   <head>
-    <meta charset="utf-8" />
+  <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>AppGrids - Bootstrap 5 App Landing Page Template</title>
+    <title>TalasCare - Website komunitas peduli tanaman talas</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/icon.png" />
     <link
       rel="shortcut icon"
       type="image/x-icon"
@@ -157,7 +158,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image2(1).jpeg"
+                src="assets/images/image2(1).jpeg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -175,7 +176,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image3.jpg"
+                src="assets/images/image3.jpg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -191,7 +192,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image4.jpg"
+                src="assets/images/image4.jpg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -209,7 +210,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images//image5.jpg"
+                src="assets/images//image5.jpg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -225,7 +226,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image11.png"
+                src="assets/images/image11.png"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -241,7 +242,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image6.jpg"
+                src="assets/images/image6.jpg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -268,7 +269,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image12.png"
+                src="assets/images/image8.jpeg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -284,7 +285,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image8.jpeg"
+                src="assets/images/image8.jpeg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -300,7 +301,7 @@
           <div class="col-md-4">
             <div class="card">
               <img
-                src="images/image7.jpg"
+                src="assets/images/image7.jpg"
                 style="max-width: 100%; height: 200px"
                 alt="Gambar Card"
               />
@@ -319,101 +320,7 @@
     <!-- ========================= hero-section end ========================= -->
 
     <!-- ========================= footer start ========================= -->
-    <footer id="footer" class="footer">
-      <br /><br />
-      <!-- <div class="footer-shape">
-        <img
-          src="assets/img/footer/asd.png"
-          alt=""
-          class="shape shape-1"
-        />
-      </div> -->
-      <div class="container">
-        <div class="widget-wrapper">
-          <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <div class="logo">
-                  <a href="index.php">
-                    <img
-                      src="assets/img/logo/logo2.png"
-                      alt=""
-                      class="logo-2"
-                    />
-                    <img src="assets/img/logo/logo.png" alt="" class="logo-1" />
-                  </a>
-                </div>
-                <ul class="socials">
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-twitter-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-instagram-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-linkedin-original"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-3 col-lg-2 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
-              <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="copy-right-wrapper">
-          <p>
-            Designed and Developed by
-            <a href="#" rel="nofollow" target="_blank">Net Think</a>
-          </p>
-        </div>
-      </div>
-    </footer>
+    <?php include 'views/Footer.php' ?>
 
     <!-- ========================= footer end ========================= -->
 
