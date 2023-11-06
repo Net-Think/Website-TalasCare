@@ -185,11 +185,11 @@
                 </div>
                 <h3 class="card-title">Rating Toko</h3>
                 <div class="card-text">
-                  <p><input type="checkbox" name="lima_rating"/> <img src="images/Bintang/Bintang_5.png" height="35"/></p>
-                  <p><input type="checkbox" name="empat_rating"/> <img src="images/Bintang/Bintang_4.png" height="35"/></p>
-                  <p><input type="checkbox" name="tiga_rating"/> <img src="images/Bintang/Bintang_3.png" height="35"/></p>
-                  <p><input type="checkbox" name="dua_rating"/> <img src="images/Bintang/Bintang_2.png" height="35"/></p>
-                  <p><input type="checkbox" name="lima_rating"/> <img src="images/Bintang/Bintang_1.png" height="35"/></p>
+                  <p><input type="checkbox" name="lima_rating"/> <img src="assets/images/Bintang/Bintang_5.png" height="35"/></p>
+                  <p><input type="checkbox" name="empat_rating"/> <img src="assets/images/Bintang/Bintang_4.png" height="35"/></p>
+                  <p><input type="checkbox" name="tiga_rating"/> <img src="assets/images/Bintang/Bintang_3.png" height="35"/></p>
+                  <p><input type="checkbox" name="dua_rating"/> <img src="assets/images/Bintang/Bintang_2.png" height="35"/></p>
+                  <p><input type="checkbox" name="lima_rating"/> <img src="assets/images/Bintang/Bintang_1.png" height="35"/></p>
                 </div>
               </div>
             </div>
@@ -225,14 +225,14 @@
                 <div class="col-md-6">
                   <div class="card">
                     <img
-                      src="images/Bintang/Toko tani jaya.png"
+                      src="assets/images/Bintang/Toko tani jaya.png"
                       style="max-width: 100%; height: 167px"
                       alt="Gambar Card"
                     />
                     <div class="card-body">
                       <h3 class="card-title">Tani Jaya</h3>
-                      <img src="images/Bintang/Bintang_5.png" height="15"><br/><br/>
-                      <a href="detail_toko.html" class="btn btn-small btn-main btn-round-full"
+                      <img src="assets/images/Bintang/Bintang_5.png" height="15"><br/><br/>
+                      <a href="detail_toko.php" class="btn btn-small btn-main btn-round-full"
                         >Lihat Detail</a
                       >
                     </div>
@@ -241,13 +241,13 @@
                 <div class="col-md-6">
                   <div class="card">
                     <img
-                      src="images/Bintang/Toko pertanian pilar tani.png"
+                      src="assets/images/Bintang/Toko pertanian pilar tani.png"
                       style="max-width: 100%; height: 167px"
                       alt="Gambar Card"
                     />
                     <div class="card-body">
                       <h3 class="card-title">Pertanian Pilar Tani</h3>
-                      <img src="images/Bintang/Bintang_4.png" height="15"><br/><br/>
+                      <img src="assets/images/Bintang/Bintang_4.png" height="15"><br/><br/>
                       <a href="#" class="btn btn-small btn-main btn-round-full"
                         >Lihat Detail</a
                       >

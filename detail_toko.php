@@ -153,8 +153,8 @@
               <div class="single-blog-item">
                   <h2 class="mt-3 mb-4">Tani Jaya</h2><br/>
                   <div class="blog-item-content bg-white p-5">
-                      <img src="images/Bintang/Gambar toko.jpg" alt="" class="img-fluid rounded">
-                      <img src="images/Bintang/Bintang_5.png" alt="" class="mt-4"/> 
+                      <img src="assets/images/Bintang/Gambar toko.jpg" alt="" class="img-fluid rounded">
+                      <img src="assets/images/Bintang/Bintang_5.png" alt="" class="mt-4"/> 
                       <h3 class="mt-4">Deskripsi</h3>
                       <p class="mt-2">Menjual berbagai keperluan pertanian, benih, pestisida, dan bunga artificial</p>
                   </div>
