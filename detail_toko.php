@@ -81,7 +81,7 @@
                       <a href="index.php">Beranda</a>
                     </li>
                     <li class="nav-item">
-                      <a class="page-scroll" href="#feature">Forum</a>
+                      <a class="page-scroll" href="forum.php">Forum</a>
                     </li>
                     <li class="nav-item">
                       <a href="blog.php">Blog</a>
@@ -126,8 +126,8 @@
           <div class="row">
             <div class="col-md-12">
               <div class="block text-center">
-                <span class="text-white">Our blog</span>
-                <h1 class="text-capitalize mb-4 text-lg">TalasCare Blog</h1>
+                <span class="text-white">Detail Toko</span>
+                <h1 class="text-capitalize mb-4 text-lg">TalasMap</h1>
                 <ul class="list-inline">
                   <li class="list-inline-item">
                     <a href="index.php" class="text-white-50">Home</a>
@@ -136,7 +136,7 @@
                     <span class="text-white">/</span>
                   </li>
                   <li class="list-inline-item">
-                    <a href="#" class="text-white">Blog</a>
+                    <a href="#" class="text-white">TalasMap</a>
                   </li>
                 </ul>
               </div>
@@ -151,11 +151,12 @@
                       <div class="row">
           <div class="col-lg-12 mb-5">
               <div class="single-blog-item">
-                  <h2 class="mt-3 mb-4">Serangga Aphis Gossyipii</h2><br/>
+                  <h2 class="mt-3 mb-4">Tani Jaya</h2><br/>
                   <div class="blog-item-content bg-white p-5">
-                      <img src="assets/images/image3.jpg" alt="" class="img-fluid rounded">
-                      <p class="mt-5">Serangga ini menyerang daun talas dengan cara menghisap cairan daun, yang menyebabkan daun menjadi keriting. Serangga ini juga dapat mengeluarkan madu yang menarik semut. Serangga ini tidak bisa hidup dalam kondisi lingkungan yang sangat dingin.</p>
-                     
+                      <img src="assets/images/Bintang/Gambar toko.jpg" alt="" class="img-fluid rounded">
+                      <img src="assets/images/Bintang/Bintang_5.png" alt="" class="mt-4"/> 
+                      <h3 class="mt-4">Deskripsi</h3>
+                      <p class="mt-2">Menjual berbagai keperluan pertanian, benih, pestisida, dan bunga artificial</p>
                   </div>
               </div>
           </div>
@@ -168,18 +169,11 @@
           <div class="sidebar-widget latest-post card border-0 p-4 mb-3 mt-105">
             
               <ul class="unstyle">
-                <li><b class="propertyname">Pencegahan:</b></li>
-                <li><b class="propertyname">1. </b>Pemantauan Rutin</li>
-                <li><b class="propertyname">2. </b>Pemupukan Seimbang </li>
-                <li><b class="propertyname">3. </b>Gunakan Pengendalian Alamiah</li><br/>
-                <li><b class="propertyname">Pengobatan:</b></li>
-                <li><b class="propertyname">1. </b> Cobalah siram kutu daun dengan kuat air dari selang air atau semprotkan mereka dengan air sabun</li>
-                <li><b class="propertyname">2. </b> Campurkan minyak neem dengan air sesuai petunjuk pada label dan semprotkan pada tanaman</li>
-                <li><b class="propertyname">3. </b> Gunakan pestisida kimia jika sudah parah</li>
-            </ul>
-      
-             
-      
+                <li><h4>Kontak</h4></li>
+                <li><b class="propertyname">Alamat:</b> Jl. Dewi Sartika No.56, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121</li>
+                <li><b class="propertyname">Waktu:</b> Hari: Senin-Sabtu Pukul: 08.00-15.30</li>
+                <li><b class="propertyname">Website:</b> <a href="business.site">business.site</a></li>
+                <li><b class="propertyname">Telepon:</b> 081511771456</li>      
               <div class="media border-bottom py-3">
             
           </div>
@@ -194,7 +188,6 @@
 
     <!-- ========================= footer start ========================= -->
     <footer id="footer" class="footer">
-      <br /><br />
       <!-- <div class="footer-shape">
         <img
           src="assets/img/footer/asd.png"
@@ -216,64 +209,51 @@
                     />
                     <img src="assets/img/logo/logo.png" alt="" class="logo-1" />
                   </a>
+                  <div class="accordion-body">
+                  <p>
+                  Sumber informasi dan komunitas peduli tanaman talas di Bogor. Tempat berbagi pengalaman
+                dan belajar untuk mendapatkan wawasan baru dalam menjaga kesehatan tanaman talas. </p>
+                <p>© TalasCare 2023</p>
+            </div>
                 </div>
-                <ul class="socials">
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-twitter-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-instagram-filled"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <i class="lni lni-linkedin-original"></i>
-                    </a>
-                  </li>
-                </ul>
+               
               </div>
             </div>
 
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
               <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
+                <h3>Alamat</h3>
+                <p>Jln Kumbang No. 14, RT.02/RW.06, Babakan, Kec. Bogor Tengah, Kota Bogor, Jawa Barat 16128</p>
               </div>
             </div>
 
             <div class="col-xl-3 col-lg-2 col-md-6 col-sm-6">
               <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                </ul>
+                <h3>Kontak</h3>
+                <p>Email: sv@apps.ipb.ac.id<p>
+                <p>No Telp: (0251) 8376845<p>
               </div>
             </div>
 
             <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
               <div class="footer-widget">
-                <h3>Lorem</h3>
-                <ul class="links">
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum </a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
-                  <li><a href="#">Lorem Ipsum</a></li>
+                <h3></h3>
+                <ul class="socials">
+                  <li>
+                    <a href="facebook.com">
+                      <i class="lni lni-facebook-filled"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="twitter.com">
+                      <i class="lni lni-twitter-filled"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="instagram.com">
+                      <i class="lni lni-instagram-filled"></i>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -283,12 +263,13 @@
         <div class="copy-right-wrapper">
           <p>
             Designed and Developed by
-            <a href="#" rel="nofollow" target="_blank">Net Think</a>
+            <a href="#" rel="nofollow" target="_blank"
+              >Net Think</a
+            >
           </p>
         </div>
       </div>
     </footer>
-
     <!-- ========================= footer end ========================= -->
 
     <!-- ========================= scroll-top ========================= -->

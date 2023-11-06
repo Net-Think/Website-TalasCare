@@ -77,7 +77,7 @@
                       <div class="dropdown-content">
                         <a href="../TalasInfo.php">TalasInfo</a>
                         <a href="../TalasAI.php">TalasAI</a>
-                        <a href="#">TalasMaps</a>
+                        <a href="../TalasMaps.php">TalasMaps</a>
                         <a href="../TalasDetection.php">TalasDetection</a>
                       </div>
                     </li>

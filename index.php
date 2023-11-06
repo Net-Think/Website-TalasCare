@@ -51,7 +51,7 @@
                       <div class="dropdown-content">
                         <a href="TalasInfo.php">TalasInfo</a>
                         <a href="TalasAI.php">TalasAI</a>
-                        <a href="#">TalasMaps</a>
+                        <a href="TalasMaps.php">TalasMaps</a>
                         <a href="TalasDetection.php">TalasDetection</a>
                       </div>
                     </li>
@@ -168,7 +168,7 @@
             <div class="single-feature">
               <div class="content">
                 <div id="map">
-                  <iframe src="https://maps.google.com/maps?q=Av.+L%C3%BAcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="Maps/index.html" width="100%" height="636px" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </div>
             </div>
