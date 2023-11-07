@@ -42,17 +42,17 @@
                 <h3></h3>
                 <ul class="socials">
                   <li>
-                    <a href="facebook.com">
+                    <a href="#">
                       <i class="lni lni-facebook-filled"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="twitter.com">
+                    <a href="#">
                       <i class="lni lni-twitter-filled"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="instagram.com">
+                    <a href="#">
                       <i class="lni lni-instagram-filled"></i>
                     </a>
                   </li>
