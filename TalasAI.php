@@ -97,9 +97,8 @@
     <section class="page-title">
       <div class="container">
         <div class="chat-container">
-          <div class="chat-header">HamaAI</div>
-          <div class="chat-messages" id="chatMessages">
-            &nbsp Halo, Ada yang bisa saya bantu?
+          <div class="chat-header">TalasAI</div>
+          <div class="chat-messages" id="chatMessages">&nbsp Halo, Ada yang bisa saya bantu?
           </div>
           <div class="input-container">
             <input
@@ -230,5 +229,7 @@
       integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
       crossorigin="anonymous"
     ></script>
+
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

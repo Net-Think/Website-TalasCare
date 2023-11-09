@@ -184,10 +184,12 @@ p {
 }
 
 .user-message {
+  background-color: #dbd0e6;
   text-align: right;
 }
 
 .bot-message {
+  background-color: #eaeaea;
   text-align: left;
 }
 
